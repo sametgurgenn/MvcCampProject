@@ -33,3 +33,16 @@ D:\Projelerim\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompile
 D:\Projelerim\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 D:\Projelerim\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
 D:\Projelerim\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Win\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
