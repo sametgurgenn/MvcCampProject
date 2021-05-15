@@ -46,3 +46,15 @@ C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.cspr
 C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\Samet\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\proje\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\proje\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+D:\proje\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\proje\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+D:\proje\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\proje\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+D:\proje\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\proje\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\proje\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\proje\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+D:\proje\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+D:\proje\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
