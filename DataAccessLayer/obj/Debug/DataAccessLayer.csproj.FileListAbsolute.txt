@@ -88,5 +88,6 @@ D:\proje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreComp
 D:\proje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 D:\proje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\proje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-D:\proje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+D:\proje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
 D:\proje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\proje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources

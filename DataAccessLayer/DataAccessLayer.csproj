@@ -67,9 +67,13 @@
     <Compile Include="EntityFramework\EfContentDal.cs" />
     <Compile Include="EntityFramework\EfHeadingDal.cs" />
     <Compile Include="EntityFramework\EfWriterDal.cs" />
-    <Compile Include="Migrations\202105150144358_mig1.cs" />
-    <Compile Include="Migrations\202105150144358_mig1.designer.cs">
-      <DependentUpon>202105150144358_mig1.cs</DependentUpon>
+    <Compile Include="Migrations\202105222333285_mig_imagesizechange.cs" />
+    <Compile Include="Migrations\202105222333285_mig_imagesizechange.designer.cs">
+      <DependentUpon>202105222333285_mig_imagesizechange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105222345408_mig_writer_addstatus.cs" />
+    <Compile Include="Migrations\202105222345408_mig_writer_addstatus.designer.cs">
+      <DependentUpon>202105222345408_mig_writer_addstatus.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -85,8 +89,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202105150144358_mig1.resx">
-      <DependentUpon>202105150144358_mig1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202105222333285_mig_imagesizechange.resx">
+      <DependentUpon>202105222333285_mig_imagesizechange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105222345408_mig_writer_addstatus.resx">
+      <DependentUpon>202105222345408_mig_writer_addstatus.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
